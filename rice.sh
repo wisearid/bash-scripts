@@ -27,3 +27,5 @@ sudo make clean install
 # For arch based
 # sudo pacman -S noto-fonts noto-fonts-cjk noto-fonts-emoji ttf-ubuntu-mono-nerd dmenu rofi
 
+
+sudo ln -s /usr/bin/kitty /usr/bin/gnome-terminal 
